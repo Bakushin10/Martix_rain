@@ -1,7 +1,7 @@
 int col = 120;
 int row = 35;
 final String STRING = "！＠＃＄％＾＆＊（）＿＋｝｛」「”；’；？・？？？？？？！*-/ABCDEFDHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789＋－！＄＠％＾＆＆＾＊＆＠＆あいうえおかきくけこさしすせそ破魔矢らは高校アイウエオリピバハマヤラバヤユヨコウサシスセソカキクケコナニヌネノキイ";
-int green = 100;
+int green = 100;//value for green color
 class MatrixRain{
   int x;
   int y;
