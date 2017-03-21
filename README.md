@@ -1,5 +1,5 @@
-# Martix_rain
-Martix_rain
+# Matrix_rain
+Matrix_rain
 
 ![alt text](1lsk4g.gif "Image of front page")
 
